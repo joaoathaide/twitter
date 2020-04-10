@@ -2,7 +2,7 @@
 <p align="center">Projeto <strong>Twitter-Flexbox</strong>, desenvolvido com o objetivo de melhorar os conhecimentos CSS 🚀</p>
 
 <p align="center">
-  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
