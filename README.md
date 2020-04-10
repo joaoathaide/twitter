@@ -1,5 +1,5 @@
 <h1 align="center">Twitter</h1>
-<p align="center">Projeto <strong>Twitter-Flexbox</strong>, desenvolvido com o objetivo de aperfeiçoar as estruturas de estilo 🚀</p>
+<p align="center">Projeto <strong>Twitter-Flexbox</strong>, desenvolvido com o objetivo de melhorar os conhecimentos CSS 🚀</p>
 
 <p align="center">
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
